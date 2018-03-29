@@ -39,7 +39,7 @@
     "can-simple-observable": "^2.0.0",
     "jquery": "2.x - 3.x",
     "jshint": "^2.9.4",
-    "steal": "^1.0.1",
+    "steal": "^1.11.2",
     "steal-css": "^1.0.0",
     "steal-qunit": "^1.0.0",
     "steal-tools": "^1.0.0",
